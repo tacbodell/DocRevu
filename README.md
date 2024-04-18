@@ -54,7 +54,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://github.com/tacbodell/DocRevu)
+<img src="images/placeholder.png" alt="placeholder image" width="800" height="550">
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -125,7 +125,7 @@ Project Link: [https://github.com/tacbodell/DocRevu](https://github.com/tacbodel
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/brysoncoons
 [product-screenshot]: images/placeholder.png
-[Node.js]: https://img.shields.io/node/v-lts/:packageName
+[Node.js]: https://img.shields.io/badge/NodeJS-grey?style=for-the-badge&logo=node.js
 [Node-url]: https://nodejs.org/en
 [js.js]: https://img.shields.io/badge/Javascript-grey?style=for-the-badge&logo=javascript
 [JS-url]: https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics

@@ -45,7 +45,6 @@
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
@@ -129,7 +128,7 @@ Project Link: [https://github.com/tacbodell/DocRevu](https://github.com/tacbodel
 [Node-url]: https://nodejs.org/en
 [js.js]: https://img.shields.io/badge/Javascript-grey?style=for-the-badge&logo=javascript
 [JS-url]: https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics
-[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+[React.js]: https://img.shields.io/badge/React-grey?style=for-the-badge&logo=react
 [React-url]: https://reactjs.org/
 [mysql.com]: https://img.shields.io/badge/MySQL-grey?style=for-the-badge&logo=mysql
 [SQL-url]: https://www.mysql.com/

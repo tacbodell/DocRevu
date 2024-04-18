@@ -12,7 +12,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/tacbodell/DocRevu">
-    <img src="images/logo.png" alt="Logo" width="500" height="300">
+    <img src="images/logowhite.png" alt="Logo" width="500" height="300">
   </a>
 
 <h3 align="center">DocRevu</h3>

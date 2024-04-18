@@ -103,7 +103,7 @@ Also, remember to give this project a star! Thank you so much!
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@brysonc00ns](https://twitter.com/brysonc00ns) - coonsbrysona@gmail.com
+Get in touch! - [@brysonc00ns](https://twitter.com/brysonc00ns) - coonsbrysona@gmail.com
 
 Project Link: [https://github.com/tacbodell/DocRevu](https://github.com/tacbodell/DocRevu)
 
